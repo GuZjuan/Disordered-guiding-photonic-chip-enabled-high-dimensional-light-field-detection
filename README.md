@@ -10,5 +10,5 @@ We keep the .csv file in this folder. They are the real datasets we used and tra
 We keep the .png file in this folder. They are the figures for our potential neural network models.
 # models
 We keep the .keras file in the folder. They are the trained model for our research.
-#.ipynb files
+# .ipynb files
 These .ipynb are used for different demonstrations in our work. You can find all the necessary code and figures in these files.
